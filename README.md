@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Than!
+
+
 
 <!--
 **Tkumar02/TKumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<img src='/Users/thanushaananthakumar/Desktop/bg-img.png'>
 -->
