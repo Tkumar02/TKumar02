@@ -1,9 +1,12 @@
 ### Hello, I'm Than!
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="bg-img.png">
+ <source media="(prefers-color-scheme: light)" srcset="">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 
-
-<!--
-**Tkumar02/TKumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Tkumar02/TKumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<img src='/Users/thanushaananthakumar/Desktop/bg-img.png'>
--->
+<img src='bg-img.png'>
+ -->
