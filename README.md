@@ -1,10 +1,20 @@
-### Hello, I'm Than!
+### Hello, I'm T! Welcome to my GitHub Profile!
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="bg-img.png">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" src="bg-img.png">
+ <source media="(prefers-color-scheme: light)" src="bg-img2.png">
+ <img alt="WELCOME" src="bg-img2.png">
 </picture>
 
+## Trained in
+- Basic web design
+- Basic data science skills
+- Basic python
+- Basic javascript
+
+## Interested in
+- Building Projects
+- Learning New Skills
+- Being a team player
 
 <!-- **Tkumar02/TKumar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
